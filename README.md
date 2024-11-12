@@ -2,6 +2,10 @@
 I'm a Software / Data engineer . In my free time, I enjoy exploring different technologies and frameworks, reading fiction📚, and practicing stretching🤸‍♀️.
 - ⭐Role: Software / Data Engineer;
 - ⚙️ Languages I basically work with: `.scala`, `.java`, `.yaml`, `.sql`;
+- 🌱 I’m currently in:
+  - Rust;
+  - Neovim;
+  - Preparing for Databricks Professional certification;
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/);
 
 ## 🛠️Tech stack:
