@@ -2,7 +2,7 @@
 I'm a Software / Data engineer . In my free time, I enjoy exploring different technologies and frameworks, reading fiction📚, and practicing stretching🤸‍♀️.
 - ⭐Role: Software / Data Engineer;
 - ⚙️ Languages I basically work with: `.scala`, `.java`, `.yaml`, `.sql`;
-- 🌱 I’m currently in:
+- 🌱 I’m currently learning:
   - Rust;
   - Neovim;
   - Preparing for Databricks Professional certification;
