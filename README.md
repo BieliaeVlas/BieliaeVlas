@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Vlas!
-I'm a Software / Data engineer . In my free time, I enjoy exploring different technologies and frameworks, reading fiction📚, and practicing stretching🤸‍♀️.
+I'm a Software / Data engineer.
 - ⭐Role: Software / Data Engineer;
 - ⚙️ Languages I basically work with: `.scala`, `.java`, `.yaml`, `.sql`;
 - 🌱 I’m currently learning:
