@@ -6,7 +6,7 @@ I'm a Software / Data engineer.
   - Rust;
   - Neovim;
   - Preparing for Databricks Professional certification;
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/);
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vlas-bieliaiev-815255233/);
 
 ## 🛠️Tech stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
