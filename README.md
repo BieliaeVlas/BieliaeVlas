@@ -3,7 +3,7 @@
 - ⚙️ Languages I basically work with: `.scala`, `.java`, `.yaml`, `.sql`;
 - 📫 Reach me on:
   -  [LinkedIn](https://www.linkedin.com/in/vlas-bieliaiev-815255233/);
-  -  [Telegram] @VlasBieliaiev
+  -  Telegram: @VlasBieliaiev
   
 
 ## 🛠️Tech stack:
