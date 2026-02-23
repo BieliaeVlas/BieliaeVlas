@@ -1,11 +1,10 @@
 # 👋 Hello, I'm Vlas!
 - ⭐Role: Software / Data Engineer;
 - ⚙️ Languages I basically work with: `.scala`, `.java`, `.yaml`, `.sql`;
-- 🌱 I’m currently learning:
-  - Rust;
-  - Neovim;
-  - Preparing for Databricks Professional certification;
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vlas-bieliaiev-815255233/);
+- 📫 Reach me on:
+  -  [LinkedIn](https://www.linkedin.com/in/vlas-bieliaiev-815255233/);
+  -  [Telegram] @VlasBieliaiev
+  
 
 ## 🛠️Tech stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
