@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vlas!
 - ⭐Role: Software / Data Engineer;
-- ⚙️ Languages I basically work with: `.scala`, `.java`, `.yaml`, `.sql`;
+- ⚙️ Languages I basically work with: `.scala`, `.java`, `.py`, `.sql`;
 - 📫 Reach me on:
   -  [LinkedIn](https://www.linkedin.com/in/vlas-bieliaiev-815255233/);
   -  Telegram: @VlasBieliaiev
